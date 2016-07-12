@@ -1,0 +1,105 @@
+chapter1.sinc.Main: status of thread 0: is NEW
+chapter1.sinc.Main: status of thread 1: is NEW
+chapter1.sinc.Main: status of thread 2: is NEW
+chapter1.sinc.Main: status of thread 3: is NEW
+chapter1.sinc.Main: status of thread 4: is NEW
+chapter1.sinc.Main: status of thread 5: is NEW
+chapter1.sinc.Main: status of thread 6: is NEW
+chapter1.sinc.Main: status of thread 7: is NEW
+chapter1.sinc.Main: status of thread 8: is NEW
+chapter1.sinc.Main: status of thread 9: is NEW
+chapter1.sinc.Main : Id 10 - Thread_0
+chapter1.sinc.Main : Priority: 10
+chapter1.sinc.Main : Old state: NEW
+chapter1.sinc.Main : New state: TERMINATED
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 11 - Thread_1
+chapter1.sinc.Main : Priority: 1
+chapter1.sinc.Main : Old state: NEW
+chapter1.sinc.Main : New state: TERMINATED
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 12 - Thread_2
+chapter1.sinc.Main : Priority: 10
+chapter1.sinc.Main : Old state: NEW
+chapter1.sinc.Main : New state: TERMINATED
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 13 - Thread_3
+chapter1.sinc.Main : Priority: 1
+chapter1.sinc.Main : Old state: NEW
+chapter1.sinc.Main : New state: TERMINATED
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 14 - Thread_4
+chapter1.sinc.Main : Priority: 10
+chapter1.sinc.Main : Old state: NEW
+chapter1.sinc.Main : New state: BLOCKED
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 15 - Thread_5
+chapter1.sinc.Main : Priority: 1
+chapter1.sinc.Main : Old state: NEW
+chapter1.sinc.Main : New state: BLOCKED
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 16 - Thread_6
+chapter1.sinc.Main : Priority: 10
+chapter1.sinc.Main : Old state: NEW
+chapter1.sinc.Main : New state: RUNNABLE
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 17 - Thread_7
+chapter1.sinc.Main : Priority: 1
+chapter1.sinc.Main : Old state: NEW
+chapter1.sinc.Main : New state: BLOCKED
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 18 - Thread_8
+chapter1.sinc.Main : Priority: 10
+chapter1.sinc.Main : Old state: NEW
+chapter1.sinc.Main : New state: BLOCKED
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 19 - Thread_9
+chapter1.sinc.Main : Priority: 1
+chapter1.sinc.Main : Old state: NEW
+chapter1.sinc.Main : New state: RUNNABLE
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 16 - Thread_6
+chapter1.sinc.Main : Priority: 10
+chapter1.sinc.Main : Old state: RUNNABLE
+chapter1.sinc.Main : New state: BLOCKED
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 14 - Thread_4
+chapter1.sinc.Main : Priority: 10
+chapter1.sinc.Main : Old state: BLOCKED
+chapter1.sinc.Main : New state: RUNNABLE
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 19 - Thread_9
+chapter1.sinc.Main : Priority: 1
+chapter1.sinc.Main : Old state: RUNNABLE
+chapter1.sinc.Main : New state: TERMINATED
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 14 - Thread_4
+chapter1.sinc.Main : Priority: 10
+chapter1.sinc.Main : Old state: RUNNABLE
+chapter1.sinc.Main : New state: TERMINATED
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 15 - Thread_5
+chapter1.sinc.Main : Priority: 1
+chapter1.sinc.Main : Old state: BLOCKED
+chapter1.sinc.Main : New state: RUNNABLE
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 18 - Thread_8
+chapter1.sinc.Main : Priority: 10
+chapter1.sinc.Main : Old state: BLOCKED
+chapter1.sinc.Main : New state: TERMINATED
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 16 - Thread_6
+chapter1.sinc.Main : Priority: 10
+chapter1.sinc.Main : Old state: BLOCKED
+chapter1.sinc.Main : New state: RUNNABLE
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 16 - Thread_6
+chapter1.sinc.Main : Priority: 10
+chapter1.sinc.Main : Old state: RUNNABLE
+chapter1.sinc.Main : New state: TERMINATED
+chapter1.sinc.Main : **********************************
+chapter1.sinc.Main : Id 17 - Thread_7
+chapter1.sinc.Main : Priority: 1
+chapter1.sinc.Main : Old state: BLOCKED
+chapter1.sinc.Main : New state: RUNNABLE
+chapter1.sinc.Main : **********************************
